@@ -6,7 +6,7 @@
         class="z-50 max-w-5xl mx-auto text-sm py-px md:py-1.5 flex justify-between md:border-b border-slate-600"
     >
         <a href="/" title="Logo">
-            <img class="h-10 md:h-8" src="{{ Vite::asset('/resources/images/profile-pictures/fn-banner-medium-dark.png') }}" alt="logo">
+            <img class="h-10 md:h-8" src="{{ Vite::asset('resources/images/profile-pictures/fn-banner-medium-dark.png') }}" alt="logo">
         </a>
 
         <div class="flex flex-wrap space-x-3 md:space-x-14 place-content-center px-6">
